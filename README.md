@@ -1,2 +1,2 @@
-# Par-metros
+# Parametros
 Crear parámetros para la aplicación Registro-usuario
